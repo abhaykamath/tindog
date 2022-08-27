@@ -1,9 +1,22 @@
 html {
     font-family: 'Noto Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;;
 }
 
 body {
     background-color: #4285F4;
+}
+
+.google-red {
+    color: #DB4437;
+}
+
+.google-yellow {
+    color: #F4B400;
+}
+
+.google-green {
+    color: #0F9D58;
 }
 
 #heading {
