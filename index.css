@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #00ADB5;
+    color: #EEEEEE;
+}
+
+.top-banner {
+    text-align: center;
+    background-color: #222831;
+    color: #00ADB5;
+    margin: auto;
+    margin-top: 20px;
+    padding: 1em;
+    border-radius: 20px;
+    width: 70%;
+}
